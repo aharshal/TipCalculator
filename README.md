@@ -29,6 +29,8 @@ Here's a walkthrough of implemented user stories:
 
 ## Notes
 
+The primary challenge in desigining this app was building the user view and experience. 
+
 ## License
 
     Copyright [2021] [Harshal Agrawal]
