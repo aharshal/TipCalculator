@@ -24,7 +24,7 @@ The following **extensions** are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<div style="width:100%;height:0;padding-bottom:212%;position:relative;"><iframe src="https://giphy.com/embed/pDzuFF2IDEr6Rbfpfe" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/pDzuFF2IDEr6Rbfpfe">via GIPHY</a></p>
+<img src='https://i.imgur.com/cmoTEsU.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
 ## Notes
